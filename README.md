@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: givanildo.resende@gmail.com 
 - 😄 Pronouns: Ele / dele
 ##
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/Joey-Resende">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joey-Resende&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joey-Resende&layout=compact&langs_count=6&theme=vision-friendly-dark"/>
