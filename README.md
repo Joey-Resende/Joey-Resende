@@ -9,7 +9,7 @@
 <div style="display: inline_block">
   <a href="https://github.com/Joey-Resende">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joey-Resende&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joey-Resende&layout=compact&langs_count=6&theme=vision-friendly-dark"/>
+  <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joey-Resende&layout=compact&langs_count=6&theme=vision-friendly-dark"/>
 </div>
 
 ##  
