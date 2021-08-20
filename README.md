@@ -1,4 +1,4 @@
-# Olá, Mundo!!! 👋
+# Olá, Mundo!!! 🤘   🤘
 
 
 - 🔭 Ainda não estou trabalhando na área de T.I(infelizmente), planejo logo, logo estar.
