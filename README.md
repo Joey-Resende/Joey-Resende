@@ -34,5 +34,5 @@
 
   ##
   
-  
+ ![Snake animation](https://github.com/Joey-Resende/Joey-Resende/blob/output/github-contribution-grid-snake.svg) 
 
