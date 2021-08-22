@@ -32,7 +32,5 @@
   <a href="https://twitter.com/Joey_Resende" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
 </div>
 
-  ##
-  
+  ##  
  ![Snake animation](https://github.com/Joey-Resende/Joey-Resende/blob/output/github-contribution-grid-snake.svg) 
-
