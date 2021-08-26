@@ -2,7 +2,7 @@
 
 
 - 🔭 Ainda não estou trabalhando na área de T.I(infelizmente), planejo logo, logo estar.
-- 🌱 Estudando Engenharia de Software, Python, HTML5, CSS3, JavaScript.
+- 🌱 Estudando Engenharia de Software, Python, HTML5, CSS3, JavaScript, e sempre curioso em aprender mais.
 - 📫 Contate-me no email: givanildo.resende@gmail.com 
 - 😄 Pronouns: Ele / dele
 ##
