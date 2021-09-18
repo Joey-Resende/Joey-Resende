@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: givanildo.resende@gmail.com 
 - 😄 Pronouns: Ele / dele
 ##
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/Joey-Resende">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joey-Resende&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joey-Resende&layout=compact&langs_count=6&theme=vision-friendly-dark"/>
@@ -21,7 +21,7 @@
   <img align="center" alt="CSS3" height="75" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bash" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Debian" height="75" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
-  <a href = "mailto:givanildo.resende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:givanildo.resende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>height="80" width="90"
   <a href="https://www.linkedin.com/in/givanildo-resende-5b8bbb218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Joey_Resende" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
  </div> 
