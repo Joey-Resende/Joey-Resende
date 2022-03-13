@@ -1,7 +1,7 @@
 # Olá, Mundo!!! 🤘   🤘
 
 
-- 🔭 Ainda não estou trabalhando na área de T.I(infelizmente), planejo logo, logo estar.
+- 🔭 A procura da primeira oportunidade para realizar a minha sonhada transição de carreira.
 - 🌱 Estudando Engenharia de Software, Python, Ruby on Rails, HTML5, CSS3, JavaScript, e sempre curioso em aprender mais.
 - 📫 Contate-me no email: givanildo.resende@gmail.com 
 - 😄 Pronouns: Ele / dele
