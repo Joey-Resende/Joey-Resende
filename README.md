@@ -2,7 +2,7 @@
 
 
 - 🔭 A procura da primeira oportunidade para realizar a minha sonhada transição de carreira.
-- 🌱 Estudando Engenharia de Software, Python, Ruby on Rails, HTML5, CSS3, JavaScript, e sempre curioso em aprender mais.
+- 🌱 Estudando Engenharia de Software, Python, Django e sempre curioso em aprender mais.
 - 📫 Contate-me no email: givanildo.resende@gmail.com 
 - 😄 Pronouns: Ele / dele
 ##
