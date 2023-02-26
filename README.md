@@ -1,3 +1,3 @@
 # Hello, World!!! :metal:  :metal:
 
-Python | Django | Rust | BackEnd | Software Enginner
+Python | Rust | Linux | BackEnd | Software Enginner
